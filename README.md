@@ -30,10 +30,11 @@
 
 <!-- About the Project -->
 ## :star2: About the Project
-The project is utilising machine learning to enhance the efficiency  of market expansion
+The project leverages machine learning to derive data-driven insights and develop market-oriented expansion strategies for e-businesses. We propose a framework that combines classic business models with advanced machine-learning techniques. Internally, the model uses the BCG matrix and word clouds to analyze product performance. Externally, it performs sentiment analysis on social media data to cluster text and identify market demand. By integrating these internal and external insights, we provide a comprehensive perspective through a SWOT analysis. The framework has been tested with secondary data, offering robust market research to help new market entrants understand product dynamics in target markets.
 
 <!-- Purpose -->
 ### :camera: Purpose
+This study proposes a data-driven intervention to enhance the accuracy of market research by integrating internal and external data, reducing biases. By utilising primary data and machine learning, it aims to improve data processing efficiency and minimise pre-interpretation concerns from business frameworks. This solution combines external market analysis with internal product performance evaluation, offering a comprehensive, machine learning-assisted approach to market research.
 
 <div align="center"> 
   <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" />
@@ -42,77 +43,35 @@ The project is utilising machine learning to enhance the efficiency  of market e
 
 <!-- TechStack -->
 ### :space_invader: Tech Stack
+- Data Scraping
+- Exploratory Data Analysis (EDA)
+- Natural Language Processing (NLP)
+- Sentiment Analysis
+- K-means clustering
 
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
-    <li><a href="https://nextjs.org/">Next.js</a></li>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-    <li><a href="https://tailwindcss.com/">TailwindCSS</a></li>
-  </ul>
-</details>
+<!-- Method -->
+### :dart: Method
 
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-    <li><a href="https://go.dev/">Golang</a></li>
-    <li><a href="https://nestjs.com/">Nest.js</a></li>
-    <li><a href="https://socket.io/">SocketIO</a></li>
-    <li><a href="https://www.prisma.io/">Prisma</a></li>    
-    <li><a href="https://www.apollographql.com/">Apollo</a></li>
-    <li><a href="https://graphql.org/">GraphQL</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.mysql.com/">MySQL</a></li>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-    <li><a href="https://redis.io/">Redis</a></li>
-    <li><a href="https://neo4j.com/">Neo4j</a></li>
-    <li><a href="https://www.mongodb.com/">MongoDB</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>DevOps</summary>
-  <ul>
-    <li><a href="https://www.docker.com/">Docker</a></li>
-    <li><a href="https://www.jenkins.io/">Jenkins</a></li>
-    <li><a href="https://circleci.com/">CircleCLI</a></li>
-  </ul>
-</details>
-
-<!-- Features -->
-### :dart: Features
-
-- Feature 1
-- Feature 2
-- Feature 3
+- BCG Matrix: Used to prioritize products by assessing sales performance and growth potential. This helps entrants plan expansion strategies and allocate resources effectively.
+- Sentiment Analysis: Extracts market insights from customer discussions and sentiments about competitors' products in the target market.
+- Clustering: Groups similar text to identify market trends within large datasets, complementing sentiment analysis.
+- SWOT Analysis: Integrates internal and external factors from previous steps, transforming insights into actionable recommendations and facilitating informed decision-making.
 
 <!-- Result -->
 ### :art: Result
 
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Primary Color | ![#222831](https://via.placeholder.com/10/222831?text=+) #222831 |
-| Secondary Color | ![#393E46](https://via.placeholder.com/10/393E46?text=+) #393E46 |
-| Accent Color | ![#00ADB5](https://via.placeholder.com/10/00ADB5?text=+) #00ADB5 |
-| Text Color | ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) #EEEEEE |
+1. BCG Matrix Analysis: Evaluate enterprise products to determine their market position.
+2. Sentiment Analysis: Analyzes Twitter data to gauge sentiments related to the enterprise's specific product.
+3. SWOT Analysis: Combines product and sentiment analyses to provide a comprehensive market-oriented perspective. This helps entrants identify product strengths, weaknesses, opportunities, and threats, leading to a well-informed market entry strategy.
 
 
 <!-- Contribution -->
 ### :key: Contribution
-
-To run this project, you will need to add the following environment variables to your .env file
-
-`API_KEY`
-
-`ANOTHER_API_KEY`
+1. Enhanced Market Research Efficiency: Utilizes machine learning algorithms to analyze big data, optimizing market research processes.
+2. Robust Market Research: Employs advanced techniques to help enterprises construct thorough market research, reinforcing business penetration in target markets.
+3. Integrated Analysis: Uses a machine learning-based approach to combine internal and external product analyses.
+4. Data-Driven Methodology: Involves sentiment analysis, clustering, and NLP techniques for comprehensive assessment.
+5. Identification of Product Features: Uses word clouds and clustering algorithms to identify distinct product features. These insights are integrated into SWOT/TOWS analysis, enabling entrants to tailor strategies based on up-to-date data, including adjustments in marketing investment, product repositioning, inventory management, and supply chain rearrangement.
 
 
 <!-- About Jenny -->
@@ -124,12 +83,17 @@ With over 6 years of experience in e-commerce and the hospitality industry, I've
 <!-- skills -->
 ### :art: skills
 
-| skills             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Primary Color | ![#222831](https://via.placeholder.com/10/222831?text=+) #222831 |
-| Secondary Color | ![#393E46](https://via.placeholder.com/10/393E46?text=+) #393E46 |
-| Accent Color | ![#00ADB5](https://via.placeholder.com/10/00ADB5?text=+) #00ADB5 |
-| Text Color | ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) #EEEEEE |
+| skills             |Level| Tools       |
+| ----------------- |-----| --------- |
+| Programming Languages | Proficient |SQL, Python (e.g. scikit-learn, NumPy, Pandas, Matplotlib, Seaborn), Tree-based ML algorithms (e.g. LightGBM, XGBoost), Linear Regression, Clustering Algorithms|
+| Analytical skills |Proficient|Excel, Google Studio, Google Bigqury |
+| Web analytics| Proficient | Google Analytics and Amplitude|
+| Data visualisation| Proficient | Tableau, Power BI |
+| Stakeholder management |  Proficient |Jira, Asana, Trello|
+| Microsoft Office | Proficient |Excel, PowerPoint, Word, Teams|
+| Content creation| Proficient |Figma, Miro, Canva and Adobe software (Photoshop, Illustrator, and Premiere)|
+| Website platforms | Proficient |Wix, Magento, Shopify, WordPress etc|
+| Marketing related | Proficient |Ads meta, google ads, Mailchimp, Insider, and other CRM tools|
 
 I'm excited to continue exploring new opportunities and applying my skills to help businesses achieve your goals.
  <p> <span> · </span> contact me: yingchen.lin027@gmail.com
