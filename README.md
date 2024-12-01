@@ -87,13 +87,13 @@ With over 6 years of experience in e-commerce and the hospitality industry, I've
 | ----------------- |-----| --------- |
 | Programming Languages | Proficient |SQL, Python (e.g. scikit-learn, NumPy, Pandas, Matplotlib, Seaborn), Tree-based ML algorithms (e.g. LightGBM, XGBoost), Linear Regression, Clustering Algorithms|
 | Analytical skills |Proficient|Excel, Google Studio, Google Bigqury |
-| Web analytics| Proficient | Google Analytics and Amplitude|
 | Data visualisation| Proficient | Tableau, Power BI |
-| Stakeholder management |  Proficient |Jira, Asana, Trello|
-| Microsoft Office | Proficient |Excel, PowerPoint, Word, Teams|
-| Content creation| Proficient |Figma, Miro, Canva and Adobe software (Photoshop, Illustrator, and Premiere)|
+| Web analytics| Advanced | Google Analytics and Amplitude|
+| Marketing related | Advanced |Ads meta, google ads, Mailchimp, Insider, and other CRM tools|
 | Website platforms | Proficient |Wix, Magento, Shopify, WordPress etc|
-| Marketing related | Proficient |Ads meta, google ads, Mailchimp, Insider, and other CRM tools|
+| Stakeholder management | Proficient |Jira, Asana, Trello|
+| Microsoft Office | Advanced |Excel, PowerPoint, Word, Teams|
+| Content creation| Intermediate |Figma, Miro, Canva and Adobe software (Photoshop, Illustrator, and Premiere)|
 
 I'm excited to continue exploring new opportunities and applying my skills to help businesses achieve your goals.
  <p> <span> · </span> contact me: yingchen.lin027@gmail.com
