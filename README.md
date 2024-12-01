@@ -28,42 +28,12 @@
 
 <br />
 
-<!-- Table of Contents -->
-# :notebook_with_decorative_cover: Table of Contents
-As a data analyst with a unique blend of psychology, marketing, and technical skills, I'm passionate about using data to drive meaningful business outcomes. My ability to identify complex problems, analyze data to find solutions, and collaborate effectively with stakeholders sets me apart.
-
-With over 6 years of experience in e-commerce and the hospitality industry, I've witnessed firsthand the transformative power of data-driven decision making. My background in digital transformation and navigating challenges like the COVID-19 pandemic has deepened my understanding of the critical role data plays in business success.
-
-How I Contribute? My initial passion for data analysis is evident in my work on:
-- Machine Learning: Leveraging ML for business expansion, as demonstrated in my dissertation and restaurant project.
-- Predictive Analytics: Forecasting sales and customer churn to inform strategic decisions.
-- CRM Optimization: Enhancing customer relationship management processes for improved efficiency and satisfaction.
-- Business Optimization: Implementing data-driven strategies to optimize operations, as exemplified by my work with McDonald's.
-- Probability: Applying statistical analysis to quantify risk and uncertainty.
-- Brand and Digital Transformation: Utilizing data to drive successful brand and digital transformation initiatives.
-  
-I'm excited to continue exploring new opportunities and applying my skills to help businesses achieve your goals.
-
-- [About the Project](#star2-about-the-project)
-  * [Screenshots](#camera-screenshots)
-  * [Tech Stack](#space_invader-tech-stack)
-  * [Features](#dart-features)
-  * [Color Reference](#art-color-reference)
-  * [Environment Variables](#key-environment-variables)
-- [Getting Started](#toolbox-getting-started)
-  * [Prerequisites](#bangbang-prerequisites)
-  * [Installation](#gear-installation)
-  * [Running Tests](#test_tube-running-tests)
-  * [Run Locally](#running-run-locally)
-  * [Deployment](#triangular_flag_on_post-deployment)
-  
-
 <!-- About the Project -->
 ## :star2: About the Project
+The project is utilising machine learning to enhance the efficiency  of market expansion
 
-
-<!-- Screenshots -->
-### :camera: Screenshots
+<!-- Purpose -->
+### :camera: Purpose
 
 <div align="center"> 
   <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" />
@@ -124,8 +94,8 @@ I'm excited to continue exploring new opportunities and applying my skills to he
 - Feature 2
 - Feature 3
 
-<!-- Color Reference -->
-### :art: Color Reference
+<!-- Result -->
+### :art: Result
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
@@ -135,8 +105,8 @@ I'm excited to continue exploring new opportunities and applying my skills to he
 | Text Color | ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) #EEEEEE |
 
 
-<!-- Env Variables -->
-### :key: Environment Variables
+<!-- Contribution -->
+### :key: Contribution
 
 To run this project, you will need to add the following environment variables to your .env file
 
@@ -144,70 +114,25 @@ To run this project, you will need to add the following environment variables to
 
 `ANOTHER_API_KEY`
 
-<!-- Getting Started -->
-## 	:toolbox: Getting Started
 
-<!-- Prerequisites -->
-### :bangbang: Prerequisites
+<!-- About Jenny -->
+# :notebook_with_decorative_cover: About Jenny
+As a data analyst with a unique blend of psychology, marketing, and technical skills, I'm passionate about using data to drive meaningful business outcomes. My ability to identify complex problems, analyze data to find solutions, and collaborate effectively with stakeholders sets me apart.
 
-This project uses Yarn as package manager
+With over 6 years of experience in e-commerce and the hospitality industry, I've witnessed firsthand the transformative power of data-driven decision making. My background in digital transformation and navigating challenges like the COVID-19 pandemic has deepened my understanding of the critical role data plays in business success.
 
-```bash
- npm install --global yarn
-```
+<!-- skills -->
+### :art: skills
 
-<!-- Installation -->
-### :gear: Installation
+| skills             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Primary Color | ![#222831](https://via.placeholder.com/10/222831?text=+) #222831 |
+| Secondary Color | ![#393E46](https://via.placeholder.com/10/393E46?text=+) #393E46 |
+| Accent Color | ![#00ADB5](https://via.placeholder.com/10/00ADB5?text=+) #00ADB5 |
+| Text Color | ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) #EEEEEE |
 
-Install my-project with npm
-
-```bash
-  yarn install my-project
-  cd my-project
-```
-   
-<!-- Running Tests -->
-### :test_tube: Running Tests
-
-To run tests, run the following command
-
-```bash
-  yarn test test
-```
-
-<!-- Run Locally -->
-### :running: Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/Louis3797/awesome-readme-template.git
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Install dependencies
-
-```bash
-  yarn install
-```
-
-Start the server
-
-```bash
-  yarn start
-```
-
-
-<!-- Deployment -->
-### :triangular_flag_on_post: Deployment
-
-To deploy this project run
-
-```bash
-  yarn deploy
-```
+I'm excited to continue exploring new opportunities and applying my skills to help businesses achieve your goals.
+ <p> <span> · </span> contact me: yingchen.lin027@gmail.com
+ <p> <span> · </span> Reach out to me on Linkedin: <a href="https://www.linkedin.com/in/jenny-yingchen-lin/">
+    <img src="https://img.shields.io/github/contributors/Louis3797/awesome-readme-template" alt="LinkedIn" />
+  </a>
