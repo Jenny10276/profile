@@ -2,7 +2,7 @@
   <h1> Readme </h1>
   
   <p>
-    The README before you star projects! 
+    The README before you start projects! 
   </p>
   
   
@@ -18,11 +18,11 @@
 <h4>
     <a href="https://github.com/Louis3797/awesome-readme-template/">Data analyst</a>
   <span> · </span>
-    <a href="https://github.com/Louis3797/awesome-readme-template">business Intellingence</a>
+    <a href="https://github.com/Louis3797/awesome-readme-template">Business Intellingence</a>
   <span> · </span>
     <a href="https://github.com/Louis3797/awesome-readme-template/issues/">Growth & Marketing</a>
   <span> · </span>
-    <a href="https://github.com/Louis3797/awesome-readme-template/issues/">Business expansion</a>
+    <a href="https://github.com/Louis3797/awesome-readme-template/issues/">Business Expansion</a>
   </h4>
 </div>
 
@@ -30,16 +30,18 @@
 
 <!-- About the Project -->
 ## :star2: About the Project
-The project leverages machine learning to derive data-driven insights and develop market-oriented expansion strategies for e-businesses. We propose a framework that combines classic business models with advanced machine-learning techniques. Internally, the model uses the BCG matrix and word clouds to analyze product performance. Externally, it performs sentiment analysis on social media data to cluster text and identify market demand. By integrating these internal and external insights, we provide a comprehensive perspective through a SWOT analysis. The framework has been tested with secondary data, offering robust market research to help new market entrants understand product dynamics in target markets.
+The project leverages machine learning to derive data-driven insights and develop market-oriented expansion strategies for enterprises. The proposed framework combines classic business models with advanced machine-learning techniques. Internally, the model uses the BCG matrix and word clouds to analyse product performance. Externally, it performs sentiment analysis on social media data to cluster text and identify market demand. Finally, integrating these internal and external insights provides a comprehensive perspective through a SWOT analysis. The framework has been tested with secondary data, offering robust market research to help new market entrants understand product dynamics in target markets.
 
 <!-- Purpose -->
 ### :camera: Purpose
-This study proposes a data-driven intervention to enhance the accuracy of market research by integrating internal and external data, reducing biases. By utilising primary data and machine learning, it aims to improve data processing efficiency and minimise pre-interpretation concerns from business frameworks. This solution combines external market analysis with internal product performance evaluation, offering a comprehensive, machine learning-assisted approach to market research.
+This model proposes a data-driven intervention to enhance the accuracy of market research by integrating internal and external data, reducing biases. Utilising primary data and machine learning aims to improve data processing efficiency and minimise pre-interpretation concerns from business frameworks. This solution combines external market analysis with internal product performance evaluation, offering a comprehensive, machine learning-assisted approach to market research.
 
 <div align="center"> 
-  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" />
+  <img src="[https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot]()" />
 </div>
 
+
+https://docs.google.com/presentation/d/1hPJmlKk1D8n7ktsrEUM85BkS5bwR07aITsbNuev6RWs/edit?usp=sharing
 
 <!-- TechStack -->
 ### :space_invader: Tech Stack
@@ -78,7 +80,7 @@ This study proposes a data-driven intervention to enhance the accuracy of market
 # :notebook_with_decorative_cover: About Jenny
 As a data analyst with a unique blend of psychology, marketing, and technical skills, I'm passionate about using data to drive meaningful business outcomes. My ability to identify complex problems, analyze data to find solutions, and collaborate effectively with stakeholders sets me apart.
 
-With over 6 years of experience in e-commerce and the hospitality industry, I've witnessed firsthand the transformative power of data-driven decision making. My background in digital transformation and navigating challenges like the COVID-19 pandemic has deepened my understanding of the critical role data plays in business success.
+With over 6 years of experience in e-commerce and the hospitality industry, I've witnessed firsthand the transformative power of data-driven decision-making. My background in digital transformation and navigating challenges like the COVID-19 pandemic has deepened my understanding of data's critical role in business success.
 
 <!-- skills -->
 ### :art: skills
